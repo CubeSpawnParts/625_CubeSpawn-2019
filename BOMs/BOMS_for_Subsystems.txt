@@ -1,4 +1,6 @@
 The Custom Parts in this list should be in the model Folders as Google/Trimble Sketchup Files
+and STLs
+
 They are logically grouped by physical subsystem.
 
 BOM For Enclosure (CubeFrame) Updated 10-29-2015
