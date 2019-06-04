@@ -1,0 +1,8 @@
+this is an Ultimaker 2 clone with minimal features.
+adding newer features will be addressed in a second pass through the hardware design.
+
+Phase 1
+Establish basic function 
+
+Phase 2
+add features and refine function.
